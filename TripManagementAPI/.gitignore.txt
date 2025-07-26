@@ -1,0 +1,18 @@
+﻿# 👉 Visual Studio
+.vs/
+*.user
+*.suo
+
+# 👉 Build results
+bin/
+obj/
+
+# 👉 Logs and temp files
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+
+# 👉 Rider / JetBrains (احتياطي)
+.idea/
